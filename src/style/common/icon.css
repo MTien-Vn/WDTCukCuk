@@ -1,0 +1,19 @@
+﻿.icon-refresh {
+    background-image: url('../../assets/content/icon/refresh.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.icon-search {
+    background-image: url('../../assets/content/icon/search.png');
+    background-position: 16px center;
+    background-repeat: no-repeat;
+}
+
+.icon-save {
+    width: 16px;
+    height: 16px;
+    background-image: url('../../assets/content/icon/document-online.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
